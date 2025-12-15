@@ -25,7 +25,6 @@ Basta baixar o arquivo `.zip` correspondente ao seu sistema, extrair e executar 
 
 - **Setas do teclado** — mover a cobra
 - **Esc / Enter** — pausar ou voltar ao menu
-- **X / Z** — confirmar
 
 ---
 
