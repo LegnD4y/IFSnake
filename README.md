@@ -32,6 +32,4 @@ Basta baixar o arquivo `.zip` correspondente ao seu sistema, extrair e executar 
 
 Este projeto está licenciado sob a [**GNU General Public License versão 3.0** (*GPL-3.0*)](https://raw.githubusercontent.com/LegnD4y/IFSnake/refs/heads/main/LICENSE).  
 
-Consulte o arquivo `LICENSE` para o texto completo da licença.
-
 ---
