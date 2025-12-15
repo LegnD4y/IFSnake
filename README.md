@@ -3,7 +3,7 @@
 **IFSnake** é um jogo inspirado no clássico *Snake*, desenvolvido para a *fantasy console* **PICO-8**.  
 O objetivo é controlar a cobra para comer itens e crescer, evitando colidir com as bordas e com o próprio corpo.
 
-Jogue diretamente no navegador usando o GitHub Pages do projeto ou baixe a versão para sua plataforma na pasta `.bin`.
+Jogue diretamente no navegador usando o GitHub Pages do projeto ou baixe a versão para sua plataforma abaixo.
 
 ---
 
