@@ -30,8 +30,7 @@ Basta baixar o arquivo `.zip` correspondente ao seu sistema, extrair e executar 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **GNU General Public License versão 3.0** (*GPL-3.0*).  
-Isso significa que você é livre para usar, estudar, modificar e distribuir este software, desde que qualquer versão modificada seja distribuída sob os mesmos termos da GPL-3.0. :contentReference[oaicite:0]{index=0}
+Este projeto está licenciado sob a [**GNU General Public License versão 3.0** (*GPL-3.0*)](https://raw.githubusercontent.com/LegnD4y/IFSnake/refs/heads/main/LICENSE).  
 
 Consulte o arquivo `LICENSE` para o texto completo da licença.
 
